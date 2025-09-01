@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/loan_fragment"
+        android:title="Member"
+        android:icon="@drawable/ic_member"/>
+
+    <item
+        android:id="@+id/order_fragment"
+        android:title="Requests"
+        android:icon="@drawable/ic_request"/>
+
+</menu>

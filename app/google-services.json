@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1076986591746",
+    "firebase_url": "https://jenom-c8a69-default-rtdb.firebaseio.com",
+    "project_id": "jenom-c8a69",
+    "storage_bucket": "jenom-c8a69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076986591746:android:bf47ede279b13b6815c51b",
+        "android_client_info": {
+          "package_name": "com.example.lucky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAr-6ZWd6eSoXRt0r-jQTjsmbbm-E2Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
